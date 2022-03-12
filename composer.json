@@ -1,0 +1,19 @@
+{
+    "name": "natokpe/vcard",
+    "description": "A comprehensive vCard parser and generator library for the PHP programming language.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "natokpe\\vcard\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nat Okpe",
+            "email": "natokpe@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
